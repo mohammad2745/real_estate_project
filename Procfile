@@ -1,0 +1,1 @@
+web: gunicorn btre_real_estate.wsgi --log-file -
